@@ -1,6 +1,9 @@
 # KOUSTECH - Kocaeli Unmanned System Technologies
 
-![KOUSTECH Logo](https://koustech.com/wp-content/uploads/2022/09/my-project-1-e1664118956287.png)  
+
+<p align="center">
+  <img src="https://koustech.com/wp-content/uploads/2022/09/my-project-1-e1664118956287.png" alt="KOUSTECH Logo" />
+</p>
 
 ## 📌 About Us
 KOUSTECH was founded in 2017 with a team of 10 people and has established itself in the field of autonomous aerial vehicles (UAVs). We have achieved success in both national and international competitions.
