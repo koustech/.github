@@ -27,4 +27,3 @@ At KOUSTECH, we do not only produce UAV platforms but also develop various syste
 - 📩 Email: kousteckou@gmail.com
 - 📷 [Instagram](https://instagram.com/koustechkou)
 - 🏢 [LinkedIn](https://linkedin.com/company/koustech)
-- 
